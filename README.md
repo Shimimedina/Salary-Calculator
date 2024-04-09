@@ -15,7 +15,7 @@ This Java project aims to provide a robust tool for accurately calculating salar
 
 - **Hourly Rate and Work Hours Input**: Allows users to specify hourly rates and work hours, enabling precise salary calculations.
 - **Overtime Calculation**: Automatically calculates overtime pay based on predefined thresholds and rates, ensuring accurate salary estimations.
-- **Bonus Integration**: Incorporates options for adding bonuses, which are factored into the total salary calculation, providing a comprehensive view of earnings.
+- **Bonus Integration**: Feature in development. Incorporates options for adding bonuses, which are factored into the total salary calculation, providing a comprehensive view of earnings.
 - **Total Salary Calculation**: Aggregates inputs to compute the total salary, including regular pay, overtime, and bonuses, ensuring accuracy in calculations.
 
 ## Usage
@@ -33,3 +33,12 @@ This Java project aims to provide a robust tool for accurately calculating salar
 ## Conclusion
 
 The Salary Accuracy Calculator offers a reliable solution for accurately estimating salaries based on hours worked. With its Java-based implementation and dynamic interfaces, the application provides a robust platform for precise salary calculations. With potential enhancements in validation and user interface design, the project sets a solid foundation for further development and refinement.
+
+## Implementation Details
+
+- **Hourly Rate and Work Hours Input**: Allows users to specify hourly rates and work hours, enabling precise salary calculations.
+- **Time Flexibility**: Supports various time configurations, including 4-5 weeks in months and the ability to specify the number of working days per week, allowing for calculations across different timeframes.
+- **Holiday and Free Day Support**: Accounts for holidays and free days, ensuring accurate salary calculations by adjusting work hours accordingly.
+- **Overtime Calculation**: Automatically calculates overtime pay based on predefined thresholds and rates, ensuring accurate salary estimations.
+- **Bonus Integration**: Incorporates options for adding bonuses, which are factored into the total salary calculation, providing a comprehensive view of earnings.
+- **Total Salary Calculation**: Aggregates inputs to compute the total salary, including regular pay, overtime, and bonuses, ensuring accuracy in calculations.
